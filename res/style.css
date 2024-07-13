@@ -471,11 +471,11 @@ ul,li{
 }
 
 .preloader.show{
-	-webkit-transition-delay: 0;
-	-moz-transition-delay: 0;
+	-webkit-transition-delay: 0ms;
+	-moz-transition-delay: 0ms;
 	-ms-transition-delay: 0;
-	-o-transition-delay: 0;
-	transition-delay: 0;
+	-o-transition-delay: 0ms;
+	transition-delay: 0ms;
 }
 
 .preloader_inner {
